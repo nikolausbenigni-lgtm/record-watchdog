@@ -110,7 +110,7 @@ const links = {
 };
 
 function Logo() {
-  return <img src="/recordwatchdog-logo.png" alt="RecordWatchdog logo" className="h-24 w-auto max-w-[300px] object-contain sm:h-20 lg:h-24" />;
+  return <img src="/recordwatchdog-logo.png" alt="RecordWatchdog logo" className="h-24 w-auto max-w-[300px] object-contain sm:h-24 lg:h-24" />;
 }
 
 function ButtonLink({ href, children, dark = false }) {
