@@ -1,0 +1,11 @@
+# RecordWatchdog
+
+Static public-records directory landing page.
+
+## Logo
+The logo is included as a real image file:
+
+- `recordwatchdog-logo.png`
+- `public/recordwatchdog-logo.png`
+
+The page references the root copy with `./recordwatchdog-logo.png`, so it works on static hosting and Vercel.
